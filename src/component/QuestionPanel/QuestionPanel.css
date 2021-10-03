@@ -1,0 +1,30 @@
+.option:hover{
+    background: gray !important;
+    color: white !important;
+}
+.option:focus-visible{
+    background-color: gray;
+}
+
+.message{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px !important;
+}
+.next-button{
+    display: flex !important;
+    background-color:white !important;
+    color:gray !important;
+    margin: 0 auto !important;
+    margin-top: 20px !important;
+}
+
+.next-button:hover{
+    background: gray !important;
+    color: white !important;
+}
+.option{
+    display: flex !important;
+    background-color: white !important;
+}
+

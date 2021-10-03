@@ -1,0 +1,73 @@
+[
+    {
+      "question": "Microsoft Office is an example of a?",
+      "correct_answer": "Horizontal market software",
+      "incorrect_answers": [
+        "Closed source software",
+        "Open source software",
+        "vertical  software"
+      ]
+    },
+    {
+      
+      "question": "Which company developed 'Hack' Programming Language?",
+      "correct_answer": "Facebook",
+      "incorrect_answers": [
+        "Google",
+        "Microsoft",
+        "Apple"
+      ]
+    },
+    {
+      
+      "question": "Which programming language is developed by James A Gosling?",
+      "correct_answer": "Java",
+      "incorrect_answers": ["ASP.Net", "PHP", "C#"]
+    },
+    {
+      
+      "question": "C Programming language was developed by ___________.",
+      "correct_answer": "Dennis Ritchie",
+      "incorrect_answers": [
+        "Charles Babbage",
+        " Larry Wall",
+        " James Gosling"
+      ]
+    },
+    {
+      
+      "question": "Who invented JavaScript the programming language?",
+      "correct_answer": " Brendan Eich",
+      "incorrect_answers": [" George Eastman", " Emil Erlenmeyer", "Willem Einthoven"]
+    },
+    {
+     
+      "question": "Which among the following is not an Object Oriented Programming Language?",
+      "correct_answer": "PASCAL",
+      "incorrect_answers": ["Python", "Java", " C++"]
+    },
+    {
+    
+      "question": "Which of the following is not a computer programming language?",
+      "correct_answer": "NULL",
+      "incorrect_answers": ["PYTHON", "JAVA", "BASIC"]
+    },
+    {
+      
+      "question": "Which is a reserved word in the java programming language?",
+      "correct_answer": "Keyword",
+      "incorrect_answers": ["Identifier","Variable","Main"]
+    },
+    {
+      "question": "HTML stands for",
+      "correct_answer": "Hyper Text MarkUp language",
+      "incorrect_answers": ["Hyper Text MarksUp language","Hyper Tells MarkUp language","Hyper Text MakeUp language"]
+    },
+    {
+      "question": "CSS stands for",
+      "correct_answer": "Cascading style sheet",
+      "incorrect_answers": ["Cascading styled sheet","Cascading style service","Common style sheet"]
+    }
+   
+  ]
+  
